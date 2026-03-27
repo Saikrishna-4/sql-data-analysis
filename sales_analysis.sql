@@ -1,3 +1,9 @@
+-- =====================================
+-- PROJECT: Sales Data Analysis
+-- AUTHOR: Sai Krishna
+-- DESCRIPTION: SQL analysis on retail dataset
+-- =====================================
+
 -- Total revenue
 SELECT SUM(amount) AS total_revenue FROM sales;
 
